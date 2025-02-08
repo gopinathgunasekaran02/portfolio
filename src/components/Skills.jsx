@@ -8,9 +8,7 @@ import node from "../assets/nodejs.png";
 import git from "../assets/git1.png";
 import mongo from "../assets/mongo.webp";
 import postgresql from "../assets/postgresql.png";
-import postman from "../assets/postmon.png";
 import swagger from "../assets/swagger.png";
-import typeorm from "../assets/typeorm.png";
 import nest from "../assets/nest.png";
 import typeo from "../assets/type.png";
 

@@ -35,7 +35,7 @@ const Hero = () => {
                 </p>
 
                 <div className='flex flex-col sm:flex-row items-center gap-4'>
-                    <a href='https://drive.google.com/file/d/11-BqsHV9MAeZPCfh8hqCCY9EmFJoK1rd/view?usp=sharing' target="_blank" rel="noreferrer" className='px-4 py-2 w-[200px] sm:w-auto rounded-xl bg-gradient-to-br from-green-300 to-green-600 text-white'>
+                    <a href='https://drive.google.com/drive/folders/1IVnvs0O4FvZrHrwFbwhaQD7QvRvLfXz_?usp=sharing' target="_blank" rel="noreferrer" className='px-4 py-2 w-[200px] sm:w-auto rounded-xl bg-gradient-to-br from-green-300 to-green-600 text-white'>
                         Download CV
                     </a>
                     <a href='#contact' className='px-4 py-2 w-[200px] sm:w-auto rounded-xl border border-gray-400 hover:bg-gradient-to-br from-green-300 to-green-600 text-white hover:border-none'>
